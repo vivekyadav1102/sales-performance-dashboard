@@ -52,7 +52,7 @@ An interactive dashboard was built using Power BI, supported by data cleaning an
 * Understanding the difference between aggregated vs row-level calculations
 
 ## Dashboard Preview
-![Dashboard Preview](Sales_dashboard.png)
+![-->](Sales_Dashboard.png)
 
 ## Business Impact
 
